@@ -1,0 +1,6 @@
+{
+  "name": "Aura Browser",
+  "description": "An elegant, premium, lightweight web browser featuring custom engine dials, interactive quick desktops, page-adaptive color schemes, and gestural multi-tab workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
